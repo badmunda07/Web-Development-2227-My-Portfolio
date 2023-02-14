@@ -1,0 +1,47 @@
+body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+        
+      }
+
+      h1 {
+        text-align: center;
+        font-size: 36px;
+        margin-bottom: 20px;
+      }
+
+      .profile-picture {
+        float: left;
+        width: 150px;
+        height: 150px;
+        margin-right: 20px;
+        border-radius: 50%;
+      }
+
+      .profile-info {
+        overflow: auto;
+      }
+
+      .profile-info h2 {
+        font-size: 24px;
+        margin-bottom: 5px;
+      }
+
+      .profile-info p {
+        font-size: 18px;
+        margin-bottom: 10px;
+      }
+       navbar ul{
+          background-color: black;
+          
+      }
+      navbar li a{
+          float:left;
+          list-style: none;
+          
+      }
+      navbar li a{
+          padding: 3px 3px;
+          text-decoration: none;
+          color: white;
+      }
